@@ -1,6 +1,6 @@
 # Formulario de Perdas
 
-Um formulario que o cliente preecher e enviar de um modo rapido e eficaz, fiz esse projeto e todos na onde eu trabalho usar e adorou!!
+Um formulario que o cliente preecher e enviar dados, por seção!
 
 
 
